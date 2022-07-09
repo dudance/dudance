@@ -38,7 +38,7 @@
 <a href="https://rxjs.dev/" title="RxJS"><img src="https://raw.githubusercontent.com/dudance/dudance/main/icons/reactivex.svg" alt="RxJS" width="30px" height="30px"></a>
 <a href="https://jasmine.github.io/" title="jasmine"><img src="https://raw.githubusercontent.com/dudance/dudance/main/icons/jasmine.svg" alt="jasmine" width="30px" height="30px"></a>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases and Cloud solutions
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/dudance/dudance/main/icons/postgresql.svg" alt="PostgreSQL" width="30px" height="30px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://raw.githubusercontent.com/dudance/dudance/main/icons/mongodb-icon.svg" alt="MongoDB" width="30px" height="30px"></a>
 <a href="https://cloud.google.com/" title="google cloud"><img src="https://raw.githubusercontent.com/dudance/dudance/main/icons/google-cloud.svg" alt="google cloud" width="30px" height="30px"></a>
@@ -61,8 +61,6 @@
 <a href="https://www.postman.com/" title="postman"><img src="https://raw.githubusercontent.com/dudance/dudance/main/icons/postman.svg" alt="postman" width="30px" height="30px"></a>
 
 ## :phone: Contact me:
-
-<!-- style=flat-square& -->
 
 [![Gmail Badge](https://img.shields.io/badge/-eMail-D14836?logo=Gmail&logoColor=white&link=mailto:patrixdudix4@gmail.com)](mailto:patrixdudix4@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Patryk%20Dudek-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patryk-dudek/)](https://www.linkedin.com/in/patryk-dudek/)

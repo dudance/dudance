@@ -1,16 +1,15 @@
-[![Header](https://raw.githubusercontent.com/dudance/dudance/main/icons/about_me_blue.png "Header")](/#)
+[![Header](https://raw.githubusercontent.com/dudance/dudance/main/icons/about_me_blue.png "Header")](https://github.com/dudance/)
 
 <img src="https://gpvc.arturio.dev/dudance" alt="Profile views" align='right'/> <a href="https://github.com/dudance/dudance/"> </a> 
 
 <h1 align="center">
-    Hi, I'm Patryk!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    Hi, I'm Patryk! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-<hr/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&center=true&width=900&lines=Welcome+to+my+profile;Computer+Science+Student;Full+Stack+Web+Developer;I+am+constantly+learning+new+things;Feel+free+to+look+around+😊)](https://git.io/typing-svg)
 
-<hr style="height: 4px">
+<hr>
 
 <div>
     <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dudance/dudance/main/icons/spinning-donut.gif" width="250" height="170" style="margin-right: 50px;" />
@@ -26,7 +25,6 @@
 
 
 ## 🛠️ Languages and Tools:
-<hr/>
 
 ### 👨‍💻 Programming Languages
 <a href="https://www.java.com/" title="Java"><img src="https://raw.githubusercontent.com/dudance/dudance/main/icons/java.svg" alt="Java" width="30px" height="30px"></a>
@@ -63,7 +61,6 @@
 <a href="https://www.postman.com/" title="postman"><img src="https://raw.githubusercontent.com/dudance/dudance/main/icons/postman.svg" alt="postman" width="30px" height="30px"></a>
 
 ## :phone: Contact me:
-<hr/>
 
 <!-- style=flat-square& -->
 
